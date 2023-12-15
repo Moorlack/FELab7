@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FELab7/static/css/main.cf74f749.css",
+    "main.js": "/FELab7/static/js/main.1cd611f5.js",
+    "static/media/lviv.png": "/FELab7/static/media/lviv.1d86eebadbd2043370a2.png",
+    "static/media/watermelon.png": "/FELab7/static/media/watermelon.2c79e50168cfd876e5a6.png",
+    "static/media/pitaya.png": "/FELab7/static/media/pitaya.f085c8dfd58510cd5777.png",
+    "static/media/pineapple.png": "/FELab7/static/media/pineapple.cea533c1deb4eec4b716.png",
+    "static/media/carambola.png": "/FELab7/static/media/carambola.a704a572f7b7d566b343.png",
+    "static/media/apple.png": "/FELab7/static/media/apple.db47891b2d2608fcba64.png",
+    "static/media/banana.png": "/FELab7/static/media/banana.d37ae812140df7bdb674.png",
+    "index.html": "/FELab7/index.html",
+    "main.cf74f749.css.map": "/FELab7/static/css/main.cf74f749.css.map",
+    "main.1cd611f5.js.map": "/FELab7/static/js/main.1cd611f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf74f749.css",
+    "static/js/main.1cd611f5.js"
+  ]
+}
